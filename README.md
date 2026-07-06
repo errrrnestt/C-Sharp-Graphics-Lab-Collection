@@ -51,7 +51,7 @@ This program allows drawing various geometric shapes.
 An animation demonstrating planetary motion and orbital trajectories.
 
 <p align="center">
-  <img src="access/Screenshot_19.png" width="900">
+  <img src="access/Screenshot_18.png" width="900">
 </p>
 ---
 
