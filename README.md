@@ -29,7 +29,7 @@ This program allows drawing various geometric shapes.
 ### Ellipses and Circles
 <!-- Первый "эллипсный" скриншот покрупнее -->
 <p align="center">
-  <img src="access/Screenshot_12.png" width="400">
+  <img src="access/Screenshot_12.png" width="600">
 </p>
 
 <!-- Остальные аккуратной сеткой -->
