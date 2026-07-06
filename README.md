@@ -5,32 +5,32 @@ This repository contains the source code for three laboratory assignments develo
 
 ## Project Structure
 
-# Laborpraktikum: C# Grafik und Simulation
+# Laboratory Course: C# Graphics and Simulation
 
-Dieses Repository enthält drei C#-WinForms-Anwendungen, die grundlegende Grafik- und Simulationskonzepte demonstrieren.
+This repository contains three C# WinForms applications that demonstrate fundamental graphics and simulation concepts.
 
 ## 1. WindowsFormsApp4.cs - Graphic Primitives
 This program allows drawing various geometric shapes.
 
 ### Squares and Rectangles
-<img src="access/Screenshot_9.png" width="200"> <img src="access/Screenshot_10.png" width="200"> <img src="access/Screenshot_11.png" width="200">
+<img src="access/Screenshot_9.png" width="500"> <img src="access/Screenshot_10.png" width="400"> <img src="access/Screenshot_11.png" width="400">
 
 ### Ellipses and Circles
-<img src="access/Screenshot_12.png" width="200"> <img src="access/Screenshot_13.png" width="200"> <img src="access/Screenshot_14.png" width="200"> <img src="access/Screenshot_15.png" width="200"> <img src="access/Screenshot_17.png" width="200">
+<img src="access/Screenshot_12.png" width="300"> <img src="access/Screenshot_13.png" width="300"> <img src="access/Screenshot_14.png" width="300"> <img src="access/Screenshot_15.png" width="200"> <img src="access/Screenshot_17.png" width="200">
 
 ---
 
 ## 2. WindowsFormsApplication9.cs - Solar System Simulation
 An animation demonstrating planetary motion and orbital trajectories.
 
-<img src="access/Screenshot_18.png" width="300">
+<img src="access/Screenshot_18.png" width="500">
 
 ---
 
 ## 3. WindowsFormsApp5.cs - Star Shape Generator
 A tool for generating multi-pointed star shapes based on coordinate parameters.
 
-<img src="access/Screenshot_19.png" width="300">
+<img src="access/Screenshot_19.png" width="500">
 
 ---
 
