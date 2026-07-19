@@ -8,7 +8,43 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-
+ /* =========================================================================
+ * 🎨 UI BUILD GUIDE
+ * =========================================================================
+ * The designer file (Form1.Designer.cs) is not included.
+ * Add the following controls:
+ *
+ * 
+ * 📦 Controls
+ * ▪ No buttons required
+ * ▪ No textBoxes required
+ *
+ *
+ * 🖼️ Form
+ * ▪ Form1 - Solar System animation window
+ *
+ *
+ * ⏱️ Timers
+ * ▪ Timer1 - Optional / unused
+ * ▪ Runtime timers are created automatically in Form1_Load:
+ *      - Primary orbit timer (40ms)
+ *      - Secondary orbit timer (400ms)
+ *      - Tertiary orbit timer (100ms)
+ *      - Moon orbit timer (15ms)
+ *
+ *
+ * ⚙ Required Events:
+ * ▪ Form.Load
+ * ▪ Form.Paint
+ *
+ *
+ * ✨ Features:
+ * ✔ Animated solar system
+ * ✔ Multiple orbiting planets
+ * ✔ Moon rotation around planet
+ * ✔ Double buffering for smooth animation
+ *
+ * ========================================================================= */
 
 // ✨⊱✥━━━━━━━━━━━━━━━━━━━━━━━━━ ❧ ☙ ━━━━━━━━━━━━━━━━━━━━━━━━━✥⊰✨
 // Part 2: Solar System Animation
