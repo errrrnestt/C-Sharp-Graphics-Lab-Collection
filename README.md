@@ -1,6 +1,7 @@
 # 🎨 C# WinForms Graphics & Simulation Labs
 
-📌 Overview
+
+## 📌 Overview
 
 A collection of 3 C# Windows Forms projects demonstrating GDI+ rendering, custom shape plotting, and orbit physics:
 
@@ -26,10 +27,11 @@ A collection of 3 C# Windows Forms projects demonstrating GDI+ rendering, custom
 ├── 📄 WindowsFormsApp5.cs       # Star Shape Generator
 └── 📄 WindowsFormsApplication9.cs # Solar System Simulation
 ```
+---
 
 ## 🖼️ Screenshots
 
-### 1️⃣ Geometric Primitives
+#### 1 Geometric Primitives WindowsFormsApp4.cs 
 <p align="center">
   <img src="access/Screenshot_9.png" width="550"/>
 </p>
@@ -56,14 +58,14 @@ A collection of 3 C# Windows Forms projects demonstrating GDI+ rendering, custom
 
 ---
 
-### 2️⃣ Solar System Simulation
+### 2️⃣ Solar System Simulation WindowsFormsApplication9.cs
 <p align="center">
   <img src="access/Screenshot_18.png" width="700">
 </p>
 
 ---
 
-### 3️⃣ Star Shape Generator
+### 3️⃣ Star Shape Generator  WindowsFormsApp5.cs
 <p align="center">
   <img src="access/Screenshot_19.png" width="700">
 </p>
