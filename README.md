@@ -1,10 +1,5 @@
 # 🎨 C# WinForms Graphics & Simulation Labs
 
-<p align="center">
-  🎓 <i>Dug up my old university C# labs focusing on 2D GDI+ graphics, mathematical shape generation, and real-time animations.</i>
-</p>
-
----
 
 ## 📌 Overview
 
