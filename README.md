@@ -1,5 +1,5 @@
 
-#  Lab6: C# WinForms GUI & Linear/Branching Algorithms
+#  Lab6: C# Linear/Branching Algorithms
 
 This laboratory assignment includes 3 C# WinForms applications demonstrating event-driven UI, state management, and math algorithm implementation:
 
@@ -70,13 +70,13 @@ A collection of 3 C# Windows Forms projects demonstrating GDI+ rendering, custom
 
 ```text
 .
-├── 📂 AutoMorphological/        # AutoMorphological processing lab
-├── 📂 access/                   # Screenshots for main README
-├── 📂 lab22/                    # Lab 22 C# WinForms project
-├── 📂 lab6/                     # Lab 6 C# WinForms project
-├── 📄 WindowsFormsApp4.cs       # Graphic Primitives
-├── 📄 WindowsFormsApp5.cs       # Star Shape Generator
-└── 📄 WindowsFormsApplication9.cs # Solar System Simulation
+├── 📂 AutoMorphological/           # AutoMorphological processing lab
+├── 📂 access/                      # Screenshots for main README
+├── 📂 lab22/                       # Lab 22 C# WinForms project
+├── 📂 lab6/                        # Linear/Branching Algorithms
+├── 📄 WindowsFormsApp4.cs          # Graphic Primitives
+├── 📄 WindowsFormsApp5.cs          # Star Shape Generator
+└── 📄 WindowsFormsApplication9.cs  # Solar System Simulation
 ```
 ---
 
