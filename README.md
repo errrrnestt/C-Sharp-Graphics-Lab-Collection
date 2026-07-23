@@ -13,6 +13,7 @@ lab6/
 
 1. **Math Expression Evaluator (`Form1.cs`)** — Computes piecewise mathematical equations with dynamic base function selection
 <p align="center"> $f(x) \in \{\sin(x), x^2, e^x\}$.</p>
+
 2. **Quadratic Equation Solver (`Form2.cs`)** — Solves $ax^2 + bx + c = 0$ and handles real roots via discriminant calculation.
 
 3. **Currency Exchange Simulator (`Form3.cs`)** — Interactive currency converter with dynamic UI focus highlighting and direction indicators.
