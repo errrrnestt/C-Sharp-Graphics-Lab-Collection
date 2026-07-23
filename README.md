@@ -50,7 +50,7 @@ Calculates the roots of $ax^2 + bx + c = 0$:
 Simulates exchange booth operations between USD and UAH:
 
 <p align="center">
-  <img src="access/5.png" width="450" />
+  <img src="lab6/access/5.png" width="450" />
 </p>
 
 * **Interactive UI:** Highlights the active rate box in gold and changes directional arrow indicators (`<` / `>`) based on exchange direction (Buy/Sell).
